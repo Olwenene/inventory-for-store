@@ -24,3 +24,4 @@ South Korea, SKU66734, Hyperdunk, 1899.0, 7
 Australia, SKU71827, Zoom Hyperfuse, 1400.0, 15
 France, SKU20394, Eric Koston 1, 2322.0, 17
 South Africa, SKU56789, Bathu, 2300.0, 29
+South Africa, SKU45238, Drip, 1899.0, 25
